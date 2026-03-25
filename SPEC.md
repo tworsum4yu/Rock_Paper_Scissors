@@ -11,5 +11,5 @@ Make it simple. Nothing too complicated. Working with a static site here so no n
 
 ## ECR Push
 
-## EC2
+## EC2 / Terraform
 To be written later.
